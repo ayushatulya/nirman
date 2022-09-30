@@ -318,7 +318,6 @@ p {
 .services .cards .card {
   max-height: 300px;
   height: 250px;
-  overflow: auto;
   width: 30%;
   text-align: center;
 }
